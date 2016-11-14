@@ -28,3 +28,43 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+.lemon {
+  height: 250px;
+  width: 250px;
+  background-color: rgb(168, 194, 225);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  border-style: solid;
+  border-color: rgb(73, 143, 226);
+  text-align: center;
+  color: rgb(163, 73, 243);
+  font-size: 13pt;
+}
+
+.lemonHead {
+  margin-bottom: -20px;
+}
+
+.note {
+  background-color: rgb(216, 216, 216);
+  border-style: solid;
+  border-color: rgb(164, 164, 163);
+  height: 50px;
+  width: 225px;
+  margin-left: 10px;
+  margin-bottom: 90px;
+  /*text-align: center;*/
+}
+
+#bottomText {
+  display: table-cell;
+  text-align: left;
+  padding-top: 9px;
+  padding-left: 9px;
+  color: rgb(163, 73, 243);
+  font-family: InterFace;
+  font-size: 11pt;
+}
