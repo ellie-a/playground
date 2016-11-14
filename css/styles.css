@@ -1,0 +1,30 @@
+.box {
+  border-style: solid;
+  border-width: 8px;
+  border-color: #56B9BA;
+  height: 800px;
+  width: 1050px;
+}
+
+.centerImages {
+  /*height: 10em;*/
+  display: flex;
+  align-items: center;
+  justify-content: center
+
+}
+
+.leftImage {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(155, 155, 155);
+  margin-top: 225px;
+}
+
+img {
+  height: 125px;
+  width: 125px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
