@@ -68,3 +68,35 @@ img {
   font-family: InterFace;
   font-size: 11pt;
 }
+
+.abc {
+  height: 295px;
+  width: 425px;
+  border-color: rgb(163, 73, 243);
+  border-style: solid;
+  margin-top: 225px;
+  margin-left: 50px;
+  color: rgb(163, 73, 243);
+}
+.rightImage p {
+  text-align: center;
+}
+/*.abcHeader p {
+  float: right;
+}*/
+
+
+.abcHeader {
+  border-bottom: 3px solid rgb(163, 73, 243);
+  margin-top: -8px;
+  text-align: center;
+}
+
+#oneTwo {
+  float: right;
+  margin-top: 5px;
+}
+#abc {
+  text-align: center;
+  padding-left: 35px;
+}
